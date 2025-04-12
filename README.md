@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## Name:U.Mageshkumar
+## Reg.No:212224240085
 ## AIM
+To write a python program to perform Sliding window protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
